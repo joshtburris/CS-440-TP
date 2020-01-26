@@ -1,4 +1,4 @@
-# CS440-Project
+# CS-440-TP
 
 #### Introduction
 The following project is built to recognize clickbait articles from their titles. Clickbait articles are uninformative and clutter websites with distracting content, which users don’t care for. The end goal is to eventually block those clickbait advertisements from websites. In this project we will explore concepts developed for artificial intelligence learning and problem solving through algorithms that have been taught in the CS 440 class, and use them to investigate the problem, develop steps that will be tasked to each member, and make a schedule for when we will have them completed. 
